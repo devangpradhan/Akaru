@@ -1,0 +1,42 @@
+{
+  "name": "02-moving-the-oil",
+  "version": "1.0.0",
+  "description": "Akaru website's case study",
+  "author": "Akaru",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.6",
+    "glsl-fast-gaussian-blur": "^1.0.2",
+    "glsl-noise": "0.0.0",
+    "glslify": "^7.0.0",
+    "glslify-loader": "^2.0.0",
+    "gsap": "^2.1.2",
+    "lodash-es": "^4.17.11",
+    "nuxt": "^2.6.1",
+    "right-now": "^1.0.0",
+    "three": "0.110.0",
+    "touches": "^1.2.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-vue": "^5.2.2",
+    "gsap": "^2.0.2",
+    "node-sass": "^4.11.0",
+    "prettier": "^1.17.0",
+    "raw-loader": "^2.0.0",
+    "sass-loader": "^7.1.0",
+    "vue-svg-loader": "^0.12.0"
+  },
+  "keywords": []
+}
